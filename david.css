@@ -56,7 +56,7 @@ header {
   text-align: center;
   background: url('bonnie-kittle-794017-unsplash.jpg') no-repeat top center ;
   background-size: cover;
-  overflow: hidden;
+/*   overflow: hidden; */
   padding-top: 60px;
 }
 header {
