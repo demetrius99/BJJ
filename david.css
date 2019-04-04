@@ -290,17 +290,17 @@ a.social:hover {
   
   .flex {
       display: flex;
-      max-width: 1200px;
+      max-width: 1000px;
       justify-content: space-around;
       margin: 0 auto;
   }
 
   header {
-    min-height: 450px;
+    min-height: 350px;
   }
 
   .nav {
-    max-width: 1200px;
+    max-width: 1000px;
   }
 
   .nav .name {
