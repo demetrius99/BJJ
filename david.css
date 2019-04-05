@@ -308,6 +308,11 @@ a.social:hover {
     margin-right: auto;
     color: white;
   }
+  
+  .luismora-image {
+    display: block;
+    margin-right: auto;
+  }
 
   main {
     padding-top: 50px;
